@@ -75,7 +75,7 @@ int main() {
     double K = 26750.0;
     double r = 0.03;
     double T = 0.01;
-    double optionValue = 10.0;
+    double optionValue = 188.0;
     char optionType = 'C';
 
     Option option(S, K, r, T, optionValue, optionType);
